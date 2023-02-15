@@ -3,7 +3,7 @@ A newsletter sign up page built using the mailchimp API that allows users to sub
 * Sign Up to my newsletter : https://newsletter-by-shubha.herokuapp.com ( No working right now )
 
 ## Screenshots
-This is what the site looks like. All the data from your database is displayed in a table.
+This is what the site looks like.
 
 ![App Screenshot](https://github.com/shubhaaaaaaa/MyPersonal_Site/blob/main/assets/img/newsletter.png)
 
